@@ -1,7 +1,8 @@
-📊 India General Election Results 2024 – Power BI Dashboard
+#📊 India General Election Results 2024 – Power BI Dashboard
+---
 
-
-🧠Project Overview
+##🧠Project Overview
+---
 
 This project presents an interactive Power BI dashboard that analyzes the 2024 Indian General (Lok Sabha) Election results.
 
@@ -9,7 +10,7 @@ The dashboard converts raw election data into meaningful visual insights at the 
 
 The project follows a structured, multi-page storytelling approach, moving from a high-level overview to detailed regional and constituency analysis.
 
-🎯 Project Objectives
+##🎯 Project Objectives
 
    -Visualize the 2024 Lok Sabha election results in a clear and interactive manner.
    
@@ -33,7 +34,7 @@ The project follows a structured, multi-page storytelling approach, moving from 
   
   -Dataset Source – 2024 Lok Sabha Election Dataset (Kaggle)
 
-📁 Dataset Description
+##📁 Dataset Description
 
  The dataset contains detailed information related to the 2024 Indian General Election, including:
  
@@ -49,9 +50,9 @@ The project follows a structured, multi-page storytelling approach, moving from 
     
    -The dataset supports filtering and drill-down from national to constituency level.
 
-📄 Dashboard Pages
+##📄 Dashboard Pages
 
-1️⃣ Overview Analysis
+##1️⃣ Overview Analysis
 
    -Total Lok Sabha seats (543)
    
@@ -68,7 +69,7 @@ The project follows a structured, multi-page storytelling approach, moving from 
 
 
 
-2️⃣ State Demographics
+##2️⃣ State Demographics
 
    -State-wise total seats and alliance dominance
     
@@ -83,7 +84,7 @@ The project follows a structured, multi-page storytelling approach, moving from 
 
 
 
-3️⃣ Constituency Analysis
+##3️⃣ Constituency Analysis
 
    -Constituency-level vote analysis
     
@@ -99,7 +100,7 @@ The project follows a structured, multi-page storytelling approach, moving from 
 
 
 
-2️⃣ State Analysis
+##2️⃣ State Analysis
 
    -State-wise seat distribution and alliance performance
     
@@ -118,7 +119,7 @@ The project follows a structured, multi-page storytelling approach, moving from 
 
 
 
-📐 Key DAX Measures Implemented
+##📐 Key DAX Measures Implemented
 
   - Total Seats Won
     
@@ -132,7 +133,7 @@ The project follows a structured, multi-page storytelling approach, moving from 
     
 These measures ensure accurate, dynamic, and reusable calculations across visuals.
 
-🔄 Interactivity Features
+##🔄 Interactivity Features
 
    -State & constituency slicers
     
@@ -142,7 +143,7 @@ These measures ensure accurate, dynamic, and reusable calculations across visual
     
    -Drill-down from state to constituency level
 
-✅ Testing Performed
+##✅ Testing Performed
 
    -Data accuracy validation (seat counts, totals, percentages)
    
@@ -152,7 +153,7 @@ These measures ensure accurate, dynamic, and reusable calculations across visual
    
    -Verified DAX calculations under different filter conditions
 
-🚀 Project Outcome
+##🚀 Project Outcome
 
    -Successfully built a 3-page interactive Power BI dashboard
     
@@ -162,7 +163,7 @@ These measures ensure accurate, dynamic, and reusable calculations across visual
     
    -Strengthened skills in Power BI, DAX, data modeling, and storytelling
 
-🎯 Use Cases
+##🎯 Use Cases
 
    📺 Media Election Coverage
      – Enables journalists and media houses to visually present election outcomes, alliance performance, and state-wise dominance in an easy-to-understand format.
@@ -173,7 +174,7 @@ These measures ensure accurate, dynamic, and reusable calculations across visual
    📊 Academic Research 
      -Supports students and researchers in studying voting patterns, regional dominance, margins of victory, and election trends through data-driven insights.
 
-✅ Data Validation
+##✅ Data Validation
 
  ✔️ Verified total seat counts against official Lok Sabha results (543 seats).
 
@@ -185,7 +186,7 @@ These measures ensure accurate, dynamic, and reusable calculations across visual
 
  ✔️ Ensured map visuals correctly reflect state-level data on hover and selection.
 
-👥 Team D
+##👥 Team D
 
    -Jaavnika L (Team Leader)
     
@@ -193,13 +194,13 @@ These measures ensure accurate, dynamic, and reusable calculations across visual
     
    -Sugnesh Busetty 
 
-🙌 Acknowledgements
+##🙌 Acknowledgements
 
 Dataset sourced from Kaggle
 
 Built as part of an academic / learning project to strengthen data visualization and analytics skills
 
-📌 Future Enhancements
+##📌 Future Enhancements
 
    -Voter turnout analysis
    
@@ -207,7 +208,7 @@ Built as part of an academic / learning project to strengthen data visualization
    
    -Historical election comparison
 
-⭐ Enjoyed the project?
+##⭐ Enjoyed the project?
 
 Feel free to give it a ⭐ on GitHub — your support means a lot!    
 
