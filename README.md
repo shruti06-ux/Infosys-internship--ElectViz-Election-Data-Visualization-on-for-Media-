@@ -61,6 +61,9 @@ The project follows a structured, multi-page storytelling approach, moving from 
    
    -Quick understanding of national-level results
 
+   ![Overview Dashboard](screenshots/<img width="1381" height="731" alt="Screenshot 2025-12-05 185345" src="https://github.com/user-attachments/assets/0f7396c9-7f9b-4280-9a51-f86ac51c654e" />)
+
+
 2️⃣ State Demographics
 
    -State-wise total seats and alliance dominance
@@ -68,6 +71,9 @@ The project follows a structured, multi-page storytelling approach, moving from 
    -Interactive maps with hover tooltips
     
    -Visual comparison of NDA vs INDIA performance across states
+
+   ![State Demographics](screenshots/<img width="1305" height="748" alt="Screenshot 2025-12-05 190046" src="https://github.com/user-attachments/assets/1bfc44a7-57a2-4d99-895a-d79b9d9daed0" />
+)
 
 3️⃣ Constituency Analysis
 
@@ -78,7 +84,9 @@ The project follows a structured, multi-page storytelling approach, moving from 
    -Total votes, EVM votes, postal votes, and vote share
     
    -Dynamic filtering using slicers
-   screenshots/README.md
+
+   ![Constituency Analysis](screenshots/<img width="1357" height="809" alt="Screenshot 2025-12-05 185840" src="https://github.com/user-attachments/assets/f47774b6-8145-484c-979a-7687690da5be" />
+)
 
 2️⃣ State Analysis
 
@@ -92,6 +100,8 @@ The project follows a structured, multi-page storytelling approach, moving from 
     
    -Dynamic filtering using state-level slicers and cross-highlighting
 
+ ![State Analysis](screenshots/<img width="1336" height="808" alt="Screenshot 2025-12-05 190056" src="https://github.com/user-attachments/assets/866adaa6-169e-4b76-b20c-3bb2e90d8084" />
+)
 
 📐 Key DAX Measures Implemented
 
@@ -186,14 +196,5 @@ Built as part of an academic / learning project to strengthen data visualization
 
 Feel free to give it a ⭐ on GitHub — your support means a lot!    
 
-screenshots/README.md
-📸 Dashboard Preview
 
-Overview Analysis
-![Overview Dashboard](screenshots/"C:\Users\Shruti Bhore\Pictures\Screenshots\Screenshot 2025-12-05 185345.png")
- State Demographics
-[State  Demographics ](screenshots/"C:\Users\Shruti Bhore\Pictures\Screenshots\Screenshot 2025-12-05 190046.png")
- Constituency Analysis
-[Constituency Analysis](screenshots/"C:\Users\Shruti Bhore\Pictures\Screenshots\Screenshot 2025-12-05 185840.png")
-State Analysis
-[State Analysis](screenshots/"C:\Users\Shruti Bhore\Pictures\Screenshots\Screenshot 2025-12-05 190056.png")
+
