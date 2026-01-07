@@ -37,17 +37,17 @@ The project follows a structured, multi-page storytelling approach, moving from 
 
  The dataset contains detailed information related to the 2024 Indian General Election, including:
  
-    -State and constituency names
+   -State and constituency names
     
-    -Candidate and party details
+   -Candidate and party details
     
-    -Alliance information (NDA, INDIA, Others)
+   -Alliance information (NDA, INDIA, Others)
     
-    -Total votes, EVM votes, and postal votes
+   -Total votes, EVM votes, and postal votes
     
-    -Winning margins and vote share  
+   -Winning margins and vote share  
     
-    -The dataset supports filtering and drill-down from national to constituency level.
+   -The dataset supports filtering and drill-down from national to constituency level.
 
 📄 Dashboard Pages
 
@@ -63,33 +63,34 @@ The project follows a structured, multi-page storytelling approach, moving from 
 
 2️⃣ State Demographics
 
-    -State-wise total seats and alliance dominance
+   -State-wise total seats and alliance dominance
     
-    -Interactive maps with hover tooltips
+   -Interactive maps with hover tooltips
     
-    -Visual comparison of NDA vs INDIA performance across states
+   -Visual comparison of NDA vs INDIA performance across states
 
 3️⃣ Constituency Analysis
 
-    -Constituency-level vote analysis
+   -Constituency-level vote analysis
     
-    -Winning, runner-up, and second runner-up details
+   -Winning, runner-up, and second runner-up details
     
-    -Total votes, EVM votes, postal votes, and vote share
+   -Total votes, EVM votes, postal votes, and vote share
     
-    -Dynamic filtering using slicers
+   -Dynamic filtering using slicers
+   screenshots/README.md
 
 2️⃣ State Analysis
 
-    -State-wise seat distribution and alliance performance
+   -State-wise seat distribution and alliance performance
     
-    -NDA vs INDIA dominance across states
+   -NDA vs INDIA dominance across states
     
-    -Total seats, seats won, and majority status by state
+   -Total seats, seats won, and majority status by state
     
-    -Interactive state maps with hover-based insights
+   -Interactive state maps with hover-based insights
     
-    -Dynamic filtering using state-level slicers and cross-highlighting
+   -Dynamic filtering using state-level slicers and cross-highlighting
 
 
 📐 Key DAX Measures Implemented
@@ -108,13 +109,13 @@ These measures ensure accurate, dynamic, and reusable calculations across visual
 
 🔄 Interactivity Features
 
-    -State & constituency slicers
+   -State & constituency slicers
     
-    -Hover tooltips for detailed insights
+   -Hover tooltips for detailed insights
     
-    -Cross-filtering between visuals
+   -Cross-filtering between visuals
     
-    -Drill-down from state to constituency level
+   -Drill-down from state to constituency level
 
 ✅ Testing Performed
 
@@ -128,47 +129,44 @@ These measures ensure accurate, dynamic, and reusable calculations across visual
 
 🚀 Project Outcome
 
-    -Successfully built a 3-page interactive Power BI dashboard
+   -Successfully built a 3-page interactive Power BI dashboard
     
-    -Simplified complex election data into clear visual stories
+   -Simplified complex election data into clear visual stories
     
-    -Improved understanding of election outcomes through maps and analytics
+   -Improved understanding of election outcomes through maps and analytics
     
-    -Strengthened skills in Power BI, DAX, data modeling, and storytelling
+   -Strengthened skills in Power BI, DAX, data modeling, and storytelling
 
 🎯 Use Cases
 
    📺 Media Election Coverage
-   
-       – Enables journalists and media houses to visually present election outcomes, alliance performance, and state-wise dominance in an easy-to-understand format.
+     – Enables journalists and media houses to visually present election outcomes, alliance performance, and state-wise dominance in an easy-to-understand format.
        
    🗳️ Political Performance Analysis
-   
-       – Helps analysts and political observers evaluate party and alliance performance across states and constituencies using interactive dashboards.
+      – Helps analysts and political observers evaluate party and alliance performance across states and constituencies using interactive dashboards.
   
    📊 Academic Research 
-   
-       – Supports students and researchers in studying voting patterns, regional dominance, margins of victory, and election trends through data-driven insights.
+     -Supports students and researchers in studying voting patterns, regional dominance, margins of victory, and election trends through data-driven insights.
 
 ✅ Data Validation
 
-✔️ Verified total seat counts against official Lok Sabha results (543 seats).
+ ✔️ Verified total seat counts against official Lok Sabha results (543 seats).
 
-✔️ Cross-checked alliance-wise and party-wise seat totals for consistency.
+ ✔️ Cross-checked alliance-wise and party-wise seat totals for consistency.
 
-✔️ Validated vote totals (EVM + Postal = Total Votes) at constituency level.
+ ✔️ Validated vote totals (EVM + Postal = Total Votes) at constituency level.
+ 
+ ✔️ Tested DAX measures under different slicers and filters for accuracy.
 
-✔️ Tested DAX measures under different slicers and filters for accuracy.
-
-✔️ Ensured map visuals correctly reflect state-level data on hover and selection.
+ ✔️ Ensured map visuals correctly reflect state-level data on hover and selection.
 
 👥 Team D
 
-    -Jaavnika L (Team Leader)
+   -Jaavnika L (Team Leader)
     
-    -Shruti Bhore
+   -Shruti Bhore
     
-    -Sugnesh Busetty 
+   -Sugnesh Busetty 
 
 🙌 Acknowledgements
 
@@ -188,3 +186,14 @@ Built as part of an academic / learning project to strengthen data visualization
 
 Feel free to give it a ⭐ on GitHub — your support means a lot!    
 
+screenshots/README.md
+📸 Dashboard Preview
+
+Overview Analysis
+![Overview Dashboard](screenshots/"C:\Users\Shruti Bhore\Pictures\Screenshots\Screenshot 2025-12-05 185345.png")
+ State Demographics
+[State  Demographics ](screenshots/"C:\Users\Shruti Bhore\Pictures\Screenshots\Screenshot 2025-12-05 190046.png")
+ Constituency Analysis
+[Constituency Analysis](screenshots/"C:\Users\Shruti Bhore\Pictures\Screenshots\Screenshot 2025-12-05 185840.png")
+State Analysis
+[State Analysis](screenshots/"C:\Users\Shruti Bhore\Pictures\Screenshots\Screenshot 2025-12-05 190056.png")
