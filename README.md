@@ -8,6 +8,7 @@ This project presents an interactive Power BI dashboard that analyzes the 2024 I
 The dashboard converts raw election data into meaningful visual insights at the national, state, and constituency levels, helping users easily understand election outcomes and political trends.
 
 The project follows a structured, multi-page storytelling approach, moving from a high-level overview to detailed regional and constituency analysis.
+
 ---
 ## 🎯 Project Objectives
 
@@ -19,8 +20,10 @@ The project follows a structured, multi-page storytelling approach, moving from 
    
    -Use DAX measures to calculate key election metrics 
    
-   -Improve data exploration using filters, slicers, and drill-down interactions
+   -Improve data exploration using filters, slicers, and drill-down interactions'
+   
 ---
+
 ## 🛠 Tools & Technologies Used
 
   -Power BI Desktop – Dashboard development & visualization
@@ -32,7 +35,9 @@ The project follows a structured, multi-page storytelling approach, moving from 
   -Excel / CSV – Raw data storage
   
   -Dataset Source – 2024 Lok Sabha Election Dataset (Kaggle)
+  
 ---
+
 ## 📁 Dataset Description
 
  The dataset contains detailed information related to the 2024 Indian General Election, including:
@@ -48,7 +53,9 @@ The project follows a structured, multi-page storytelling approach, moving from 
    -Winning margins and vote share  
     
    -The dataset supports filtering and drill-down from national to constituency level.
+   
 ---
+
 ## 📄 Dashboard Pages
 
 ## 1️⃣ Overview Analysis
@@ -131,6 +138,7 @@ The project follows a structured, multi-page storytelling approach, moving from 
   - Margin Category (Close, Moderate, Strong Win)
     
 These measures ensure accurate, dynamic, and reusable calculations across visuals.
+
 ---
 
 ## 🔄 Interactivity Features
@@ -178,6 +186,7 @@ These measures ensure accurate, dynamic, and reusable calculations across visual
      -Supports students and researchers in studying voting patterns, regional dominance, margins of victory, and election trends through data-driven insights.
 
 ---
+
 ## ✅ Data Validation
 
  ✔️ Verified total seat counts against official Lok Sabha results (543 seats).
