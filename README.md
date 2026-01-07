@@ -8,9 +8,9 @@ This project presents an interactive Power BI dashboard that analyzes the 2024 I
 The dashboard converts raw election data into meaningful visual insights at the national, state, and constituency levels, helping users easily understand election outcomes and political trends.
 
 The project follows a structured, multi-page storytelling approach, moving from a high-level overview to detailed regional and constituency analysis.
-
-## 🎯 Project Objectives
 ---
+## 🎯 Project Objectives
+
    -Visualize the 2024 Lok Sabha election results in a clear and interactive manner.
    
    -Analyze alliance-wise and party-wise seat distribution. Enable state-wise political dominance analysis using maps
@@ -20,9 +20,9 @@ The project follows a structured, multi-page storytelling approach, moving from 
    -Use DAX measures to calculate key election metrics 
    
    -Improve data exploration using filters, slicers, and drill-down interactions
-
-## 🛠 Tools & Technologies Used
 ---
+## 🛠 Tools & Technologies Used
+
   -Power BI Desktop – Dashboard development & visualization
   
   -Power Query – Data cleaning and transformation
@@ -32,9 +32,9 @@ The project follows a structured, multi-page storytelling approach, moving from 
   -Excel / CSV – Raw data storage
   
   -Dataset Source – 2024 Lok Sabha Election Dataset (Kaggle)
-
-## 📁 Dataset Description
 ---
+## 📁 Dataset Description
+
  The dataset contains detailed information related to the 2024 Indian General Election, including:
  
    -State and constituency names
@@ -48,9 +48,9 @@ The project follows a structured, multi-page storytelling approach, moving from 
    -Winning margins and vote share  
     
    -The dataset supports filtering and drill-down from national to constituency level.
-
-## 📄 Dashboard Pages
 ---
+## 📄 Dashboard Pages
+
 ## 1️⃣ Overview Analysis
 ---
    -Total Lok Sabha seats (543)
@@ -66,10 +66,10 @@ The project follows a structured, multi-page storytelling approach, moving from 
    <img width="1381" height="731" alt="Screenshot 2025-12-05 185345" src="https://github.com/user-attachments/assets/0f7396c9-7f9b-4280-9a51-f86ac51c654e" />
 
 
-
+---
 
 ## 2️⃣ State Demographics
----
+
    -State-wise total seats and alliance dominance
     
    -Interactive maps with hover tooltips
@@ -82,9 +82,9 @@ The project follows a structured, multi-page storytelling approach, moving from 
 
 
 
-
-## 3️⃣ Constituency Analysis
 ---
+## 3️⃣ Constituency Analysis
+
    -Constituency-level vote analysis
     
    -Winning, runner-up, and second runner-up details
@@ -97,10 +97,10 @@ The project follows a structured, multi-page storytelling approach, moving from 
    <img width="1357" height="809" alt="Screenshot 2025-12-05 185840" src="https://github.com/user-attachments/assets/f47774b6-8145-484c-979a-7687690da5be" />
 
 
-
+---
 
 ## 2️⃣ State Analysis
----
+
    -State-wise seat distribution and alliance performance
     
    -NDA vs INDIA dominance across states
@@ -117,9 +117,9 @@ The project follows a structured, multi-page storytelling approach, moving from 
 
 
 
-
-## 📐 Key DAX Measures Implemented
 ---
+## 📐 Key DAX Measures Implemented
+
   - Total Seats Won
     
   - Alliance Seat Percentage
@@ -131,9 +131,10 @@ The project follows a structured, multi-page storytelling approach, moving from 
   - Margin Category (Close, Moderate, Strong Win)
     
 These measures ensure accurate, dynamic, and reusable calculations across visuals.
+---
 
 ## 🔄 Interactivity Features
----
+
    -State & constituency slicers
     
    -Hover tooltips for detailed insights
@@ -142,8 +143,9 @@ These measures ensure accurate, dynamic, and reusable calculations across visual
     
    -Drill-down from state to constituency level
 
-## ✅ Testing Performed
 ---
+## ✅ Testing Performed
+
    -Data accuracy validation (seat counts, totals, percentages)
    
    -UI consistency checks across pages
@@ -152,8 +154,9 @@ These measures ensure accurate, dynamic, and reusable calculations across visual
    
    -Verified DAX calculations under different filter conditions
 
-## 🚀 Project Outcome
 ---
+## 🚀 Project Outcome
+
    -Successfully built a 3-page interactive Power BI dashboard
     
    -Simplified complex election data into clear visual stories
@@ -162,8 +165,9 @@ These measures ensure accurate, dynamic, and reusable calculations across visual
     
    -Strengthened skills in Power BI, DAX, data modeling, and storytelling
 
-## 🎯 Use Cases
 ---
+## 🎯 Use Cases
+
    📺 Media Election Coverage
      – Enables journalists and media houses to visually present election outcomes, alliance performance, and state-wise dominance in an easy-to-understand format.
        
@@ -173,8 +177,9 @@ These measures ensure accurate, dynamic, and reusable calculations across visual
    📊 Academic Research 
      -Supports students and researchers in studying voting patterns, regional dominance, margins of victory, and election trends through data-driven insights.
 
-## ✅ Data Validation
 ---
+## ✅ Data Validation
+
  ✔️ Verified total seat counts against official Lok Sabha results (543 seats).
 
  ✔️ Cross-checked alliance-wise and party-wise seat totals for consistency.
@@ -185,20 +190,24 @@ These measures ensure accurate, dynamic, and reusable calculations across visual
 
  ✔️ Ensured map visuals correctly reflect state-level data on hover and selection.
 
-## 👥 Team D
 ---
+
+## 👥 Team D
+
    -Jaavnika L (Team Leader)
     
    -Shruti Bhore
     
    -Sugnesh Busetty 
 
-## 🙌 Acknowledgements
 ---
+## 🙌 Acknowledgements
+
 Dataset sourced from Kaggle
 
 Built as part of an academic / learning project to strengthen data visualization and analytics skills
 
+---
 ## 📌 Future Enhancements
 
    -Voter turnout analysis
@@ -207,8 +216,9 @@ Built as part of an academic / learning project to strengthen data visualization
    
    -Historical election comparison
 
-## ⭐ Enjoyed the project?
 ---
+## ⭐ Enjoyed the project?
+
 Feel free to give it a ⭐ on GitHub — your support means a lot!    
 
 
