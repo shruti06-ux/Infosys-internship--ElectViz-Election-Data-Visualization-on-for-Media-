@@ -1,7 +1,7 @@
-#📊 India General Election Results 2024 – Power BI Dashboard
+# 📊 India General Election Results 2024 – Power BI Dashboard
 ---
 
-##🧠Project Overview
+## 🧠Project Overview
 ---
 
 This project presents an interactive Power BI dashboard that analyzes the 2024 Indian General (Lok Sabha) Election results.
